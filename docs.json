@@ -3,11 +3,11 @@
   "theme": "mint",
   "name": "TOPCOMEDIA",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#E63740",
+    "light": "#EF636A",
+    "dark": "#B0232B"
   },
-  "favicon": "https://cdn.imweb.me/thumbnail/20240718/56a0afc1f68c9.png",
+  "favicon": "/favicon.png",
   "logo": {
     "light": "/logo/logo-topcomedia-horiz.svg",
     "dark": "/logo/logo-topcomedia-horiz.svg"
