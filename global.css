@@ -1,0 +1,6 @@
+/* Global CSS */
+
+/* Apply inversion filter to the logo in dark mode */
+html.dark img[src*="logo-topcomedia-horiz"] {
+    filter: brightness(0) saturate(100%) invert(100%);
+}
